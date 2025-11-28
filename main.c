@@ -248,10 +248,10 @@ void tampilkanMenu() {
     printf("========================================\n");
     printf("1. Tambah Buku\n");
     printf("2. Tambah Anggota\n");
-    printf("3. Tambah Peminjaman (Queue)\n");
-    printf("4. Tambah Pengembalian (Stack)\n");
+    printf("3. Tambah Peminjaman\n");
+    printf("4. Tambah Pengembalian\n");
     printf("5. Tampilkan Daftar Buku\n");
-    printf("6. Tampilkan Daftar Anggota (Terurut)\n");
+    printf("6. Tampilkan Daftar Anggota\n");
     printf("7. Tampilkan Antrean Peminjaman\n");
     printf("8. Tampilkan Riwayat Pengembalian\n");
     printf("9. Keluar\n");
